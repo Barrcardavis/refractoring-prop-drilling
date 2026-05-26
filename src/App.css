@@ -1,0 +1,8 @@
+/* App.css or inline style */
+body {
+  display: flex;
+  justify-content: center;   /* centers horizontally */
+  align-items: center;       /* centers vertically */
+  height: 100vh;
+  margin: 0;
+}
